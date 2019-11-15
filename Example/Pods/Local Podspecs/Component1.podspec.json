@@ -1,0 +1,27 @@
+{
+  "name": "Component1",
+  "version": "0.1.0",
+  "summary": "A short description of Component1.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/guo846773272/Component1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "846773272@qq.com": "846773272@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/guo846773272/Component1.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Component1/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+
+    ]
+  }
+}
