@@ -8,6 +8,7 @@
 
 #import "GMYViewController.h"
 #import "Log.h"
+#import "Log2.h"
 
 @interface GMYViewController ()
 
@@ -20,6 +21,8 @@
     [super viewDidLoad];
     
     [Log log];
+    
+    [Log2 log2];
 }
 
 - (void)didReceiveMemoryWarning

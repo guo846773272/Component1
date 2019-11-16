@@ -14,7 +14,7 @@ PODS:
   - AFNetworking/Serialization (3.2.1)
   - AFNetworking/UIKit (3.2.1):
     - AFNetworking/NSURLSession
-  - Component1 (0.1.0):
+  - Component1 (0.0.1):
     - AFNetworking
   - FBSnapshotTestCase (2.1.4):
     - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
@@ -37,7 +37,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
-  Component1: c5f680202f765bfb7b33bf8d34fab8cbd9004d4a
+  Component1: db86670bee22d0f331fd1878a4377765f9d6d6d0
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
 
 PODFILE CHECKSUM: 1df50b46ca171b34b57243d23cfd53c6f22d56cd
