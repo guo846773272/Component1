@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'Component1'
-  s.version          = '0.0.2'
+  s.version          = '0.0.4'
   s.summary          = 'A short description of Component1.'
 
 # This description is used to generate tags and improve search results.
