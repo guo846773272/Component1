@@ -12,6 +12,7 @@
 
 #import "Log.h"
 #import "Log2.h"
+#import "Log3.h"
 
 FOUNDATION_EXPORT double Component1VersionNumber;
 FOUNDATION_EXPORT const unsigned char Component1VersionString[];

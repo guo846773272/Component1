@@ -9,6 +9,7 @@
 #import "GMYViewController.h"
 #import "Log.h"
 #import "Log2.h"
+#import "Log3.h"
 
 @interface GMYViewController ()
 
@@ -23,6 +24,8 @@
     [Log log];
     
     [Log2 log2];
+    
+    [Log3 log3];
 }
 
 - (void)didReceiveMemoryWarning
